@@ -1,0 +1,29 @@
+[RESOURCES]
+Resource 1
+counter
+App Server
+[VARIABLES]
+Featured Charts.NumberIn
+Delay.NumberIn
+Rap
+Song
+Dispose.NumberOut
+Liked Songs.NumberOut
+Liked Songs.NumberIn
+Add Songs.NumberOut
+Add Songs.NumberIn
+Delay.NumberOut
+Hip Hop
+Searching Songs.NumberOut
+Pop Family Songs
+Streaming Server.NumberIn
+Searching Songs.NumberIn
+Streaming Server.NumberOut
+Featured Charts.NumberOut
+STREAM.NumberOut
+STREAM.NumberIn
+Download the software.NumberOut
+Create Playlist.NumberOut False
+Create Playlist.NumberOut True
+Search Play
+BTS

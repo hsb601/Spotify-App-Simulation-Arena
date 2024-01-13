@@ -1,0 +1,171 @@
+
+                                      ARENA Simulation Results
+                                       PCS - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 1/14/2024
+Analyst: se19-010@ssuet.edu.pk                                       Model revision date: 1/13/2024
+
+Replication ended at time      : 579.2602 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Kaifi Khalil.VATime                             --         --         --         --          0
+Kaifi Khalil.NVATime                            --         --         --         --          0
+Kaifi Khalil.WaitTime                           --         --         --         --          0
+Kaifi Khalil.TranTime                           --         --         --         --          0
+Kaifi Khalil.OtherTime                          --         --         --         --          0
+Kaifi Khalil.TotalTime                          --         --         --         --          0
+Bhomeia.VATime                                  --         --         --         --          0
+Bhomeia.NVATime                                 --         --         --         --          0
+Bhomeia.WaitTime                                --         --         --         --          0
+Bhomeia.TranTime                                --         --         --         --          0
+Bhomeia.OtherTime                               --         --         --         --          0
+Bhomeia.TotalTime                               --         --         --         --          0
+Asim Azhar.VATime                               --         --         --         --          0
+Asim Azhar.NVATime                              --         --         --         --          0
+Asim Azhar.WaitTime                             --         --         --         --          0
+Asim Azhar.TranTime                             --         --         --         --          0
+Asim Azhar.OtherTime                            --         --         --         --          0
+Asim Azhar.TotalTime                            --         --         --         --          0
+Talha Yunus.VATime                              --         --         --         --          0
+Talha Yunus.NVATime                             --         --         --         --          0
+Talha Yunus.WaitTime                            --         --         --         --          0
+Talha Yunus.TranTime                            --         --         --         --          0
+Talha Yunus.OtherTime                           --         --         --         --          0
+Talha Yunus.TotalTime                           --         --         --         --          0
+Conan Gray.VATime                               --         --         --         --          0
+Conan Gray.NVATime                              --         --         --         --          0
+Conan Gray.WaitTime                             --         --         --         --          0
+Conan Gray.TranTime                             --         --         --         --          0
+Conan Gray.OtherTime                            --         --         --         --          0
+Conan Gray.TotalTime                            --         --         --         --          0
+Entity 1.VATime                             .82204     (Insuf)    .01041     2.1258        150    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        150    
+Entity 1.WaitTime                           .09492     (Insuf)    .00000     1.7719        150    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        150    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        150    
+Entity 1.TotalTime                          .91696     (Insuf)    .01041     2.8967        150    
+Harry Styles.VATime                             --         --         --         --          0
+Harry Styles.NVATime                            --         --         --         --          0
+Harry Styles.WaitTime                           --         --         --         --          0
+Harry Styles.TranTime                           --         --         --         --          0
+Harry Styles.OtherTime                          --         --         --         --          0
+Harry Styles.TotalTime                          --         --         --         --          0
+Adele.VATime                                    --         --         --         --          0
+Adele.NVATime                                   --         --         --         --          0
+Adele.WaitTime                                  --         --         --         --          0
+Adele.TranTime                                  --         --         --         --          0
+Adele.OtherTime                                 --         --         --         --          0
+Adele.TotalTime                                 --         --         --         --          0
+Ali Zafar.VATime                                --         --         --         --          0
+Ali Zafar.NVATime                               --         --         --         --          0
+Ali Zafar.WaitTime                              --         --         --         --          0
+Ali Zafar.TranTime                              --         --         --         --          0
+Ali Zafar.OtherTime                             --         --         --         --          0
+Ali Zafar.TotalTime                             --         --         --         --          0
+Atif Aslam.VATime                               --         --         --         --          0
+Atif Aslam.NVATime                              --         --         --         --          0
+Atif Aslam.WaitTime                             --         --         --         --          0
+Atif Aslam.TranTime                             --         --         --         --          0
+Atif Aslam.OtherTime                            --         --         --         --          0
+Atif Aslam.TotalTime                            --         --         --         --          0
+Imran Khan.VATime                               --         --         --         --          0
+Imran Khan.NVATime                              --         --         --         --          0
+Imran Khan.WaitTime                             --         --         --         --          0
+Imran Khan.TranTime                             --         --         --         --          0
+Imran Khan.OtherTime                            --         --         --         --          0
+Imran Khan.TotalTime                            --         --         --         --          0
+Talha Anjum.VATime                              --         --         --         --          0
+Talha Anjum.NVATime                             --         --         --         --          0
+Talha Anjum.WaitTime                            --         --         --         --          0
+Talha Anjum.TranTime                            --         --         --         --          0
+Talha Anjum.OtherTime                           --         --         --         --          0
+Talha Anjum.TotalTime                           --         --         --         --          0
+Featured Charts.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000         50    
+Liked Songs.Queue.WaitingTime               .10786     (Insuf)    .00000     1.1219         20    
+STREAM.Queue.WaitingTime                    .01704     (Insuf)    .00000     1.5379         91    
+Add Songs.Queue.WaitingTime                 .05007     (Insuf)    .00000     1.3675         30    
+Streaming Server.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000        150    
+Delay.Queue.WaitingTime                     .00458     (Insuf)    .00000     .12560         59    
+Searching Songs.Queue.WaitingTime           .21360     (Insuf)    .00000     1.3039         41    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Kaifi Khalil.WIP                            .00000     (Insuf)    .00000     .00000     .00000    
+Bhomeia.WIP                                 .00000     (Insuf)    .00000     .00000     .00000    
+Asim Azhar.WIP                              .00000     (Insuf)    .00000     .00000     .00000    
+Talha Yunus.WIP                             .00000     (Insuf)    .00000     .00000     .00000    
+Conan Gray.WIP                              .00000     (Insuf)    .00000     .00000     .00000    
+Entity 1.WIP                                .23745     (Insuf)    .00000     3.0000     .00000    
+Harry Styles.WIP                            .00000     (Insuf)    .00000     .00000     .00000    
+Adele.WIP                                   .00000     (Insuf)    .00000     .00000     .00000    
+Ali Zafar.WIP                               .00000     (Insuf)    .00000     .00000     .00000    
+Atif Aslam.WIP                              .00000     (Insuf)    .00000     .00000     .00000    
+Imran Khan.WIP                              .00000     (Insuf)    .00000     .00000     .00000    
+Talha Anjum.WIP                             .00000     (Insuf)    .00000     .00000     .00000    
+Resource 1.NumberBusy                       .18544     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .18544     (Insuf)    .00000     1.0000     .00000    
+counter.NumberBusy                          .02317     (Insuf)    .00000     1.0000     .00000    
+counter.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+counter.Utilization                         .02317     (Insuf)    .00000     1.0000     .00000    
+App Server.NumberBusy                       .00426     (Insuf)    .00000     1.0000     .00000    
+App Server.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+App Server.Utilization                      .00426     (Insuf)    .00000     1.0000     .00000    
+Featured Charts.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Liked Songs.Queue.NumberInQueue             .00372     (Insuf)    .00000     1.0000     .00000    
+STREAM.Queue.NumberInQueue                  .00268     (Insuf)    .00000     1.0000     .00000    
+Add Songs.Queue.NumberInQueue               .00259     (Insuf)    .00000     1.0000     .00000    
+Streaming Server.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+Delay.Queue.NumberInQueue                    4.6666E-4 (Insuf)    .00000     1.0000     .00000    
+Searching Songs.Queue.NumberInQueue         .01512     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Kaifi Khalil.NumberIn                       .00000    
+Kaifi Khalil.NumberOut                      .00000    
+Bhomeia.NumberIn                            .00000    
+Bhomeia.NumberOut                           .00000    
+Asim Azhar.NumberIn                         .00000    
+Asim Azhar.NumberOut                        .00000    
+Talha Yunus.NumberIn                        .00000    
+Talha Yunus.NumberOut                       .00000    
+Conan Gray.NumberIn                         .00000    
+Conan Gray.NumberOut                        .00000    
+Entity 1.NumberIn                           150.00    
+Entity 1.NumberOut                          150.00    
+Harry Styles.NumberIn                       .00000    
+Harry Styles.NumberOut                      .00000    
+Adele.NumberIn                              .00000    
+Adele.NumberOut                             .00000    
+Ali Zafar.NumberIn                          .00000    
+Ali Zafar.NumberOut                         .00000    
+Atif Aslam.NumberIn                         .00000    
+Atif Aslam.NumberOut                        .00000    
+Imran Khan.NumberIn                         .00000    
+Imran Khan.NumberOut                        .00000    
+Talha Anjum.NumberIn                        .00000    
+Talha Anjum.NumberOut                       .00000    
+Resource 1.NumberSeized                     182.00    
+Resource 1.ScheduledUtilization             .18544    
+counter.NumberSeized                        109.00    
+counter.ScheduledUtilization                .02317    
+App Server.NumberSeized                     150.00    
+App Server.ScheduledUtilization             .00426    
+System.NumberOut                            150.00    
+
+
+Simulation run time: 7.97 minutes.
+Simulation run complete.
